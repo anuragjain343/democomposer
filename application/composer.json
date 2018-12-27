@@ -1,0 +1,10 @@
+{
+    "name": "mindiiii/application",
+    "authors": [
+        {
+            "name": "anurag123",
+            "email": "anurag.mindiii@gmail.com"
+        }
+    ],
+    "require": {"phpmailer/phpmailer":"6.0.0"}
+}
